@@ -3,6 +3,8 @@ special-vendored-path/* linguist-vendored
 bootstrap.bundle.js.map linguist-vendored=false   
 
 * .css linguist-vendored=false
+* .jquery linguist-vendored=false
+* .js linguist-vendored=false
 * text=auto
 $ cat .gitattributes
 special-vendored-path/* linguist-vendored
