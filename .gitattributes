@@ -1,6 +1,6 @@
-* .css linguist-vendored=false
+
 
 * text=auto
 $ cat .gitattributes
 special-vendored-path/* linguist-vendored
-jquery.js linguist-vendored=false
+jquery.js linguist-vendored=false   
